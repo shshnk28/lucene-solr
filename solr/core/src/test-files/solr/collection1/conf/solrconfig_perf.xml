@@ -36,7 +36,6 @@
   
   <query>
     <filterCache
-      class="solr.FastLRUCache"
       size="512"
       initialSize="512"
       autowarmCount="0"/>

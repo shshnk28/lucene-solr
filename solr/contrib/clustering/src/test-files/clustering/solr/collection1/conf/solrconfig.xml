@@ -88,7 +88,6 @@
            and old cache.
          -->
     <filterCache
-      class="solr.LRUCache"
       size="512"
       initialSize="512"
       autowarmCount="128"/>
